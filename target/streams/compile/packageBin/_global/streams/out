@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/elenagupta/Desktop/Project-Scraping/target/scala-3.5.0/fs2-scraper_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Scraper.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/elenagupta/Desktop/Project-Scraping/target/scala-3.5.0/classes/Scraper.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestCats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/elenagupta/Desktop/Project-Scraping/target/scala-3.5.0/classes/TestCats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestCats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/elenagupta/Desktop/Project-Scraping/target/scala-3.5.0/classes/TestCats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestCats.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/elenagupta/Desktop/Project-Scraping/target/scala-3.5.0/classes/TestCats.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

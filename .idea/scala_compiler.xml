@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="fs2-scraper,fs2-scraper.main,fs2-scraper.test,project-scraping_5149,project-scraping_5149.main,project-scraping_5149.test" />
+  </component>
+</project>
