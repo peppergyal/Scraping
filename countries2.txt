@@ -1,0 +1,250 @@
+Country: Andorra, Capital: Andorra la Vella, Population: 84000
+Country: United Arab Emirates, Capital: Abu Dhabi, Population: 4975593
+Country: Afghanistan, Capital: Kabul, Population: 29121286
+Country: Antigua and Barbuda, Capital: St. John's, Population: 86754
+Country: Anguilla, Capital: The Valley, Population: 13254
+Country: Albania, Capital: Tirana, Population: 2986952
+Country: Armenia, Capital: Yerevan, Population: 2968000
+Country: Angola, Capital: Luanda, Population: 13068161
+Country: Antarctica, Capital: None, Population: 0
+Country: Argentina, Capital: Buenos Aires, Population: 41343201
+Country: American Samoa, Capital: Pago Pago, Population: 57881
+Country: Austria, Capital: Vienna, Population: 8205000
+Country: Australia, Capital: Canberra, Population: 21515754
+Country: Aruba, Capital: Oranjestad, Population: 71566
+Country: Åland, Capital: Mariehamn, Population: 26711
+Country: Azerbaijan, Capital: Baku, Population: 8303512
+Country: Bosnia and Herzegovina, Capital: Sarajevo, Population: 4590000
+Country: Barbados, Capital: Bridgetown, Population: 285653
+Country: Bangladesh, Capital: Dhaka, Population: 156118464
+Country: Belgium, Capital: Brussels, Population: 10403000
+Country: Burkina Faso, Capital: Ouagadougou, Population: 16241811
+Country: Bulgaria, Capital: Sofia, Population: 7148785
+Country: Bahrain, Capital: Manama, Population: 738004
+Country: Burundi, Capital: Bujumbura, Population: 9863117
+Country: Benin, Capital: Porto-Novo, Population: 9056010
+Country: Saint Barthélemy, Capital: Gustavia, Population: 8450
+Country: Bermuda, Capital: Hamilton, Population: 65365
+Country: Brunei, Capital: Bandar Seri Begawan, Population: 395027
+Country: Bolivia, Capital: Sucre, Population: 9947418
+Country: Bonaire, Capital: Kralendijk, Population: 18012
+Country: Brazil, Capital: Brasília, Population: 201103330
+Country: Bahamas, Capital: Nassau, Population: 301790
+Country: Bhutan, Capital: Thimphu, Population: 699847
+Country: Bouvet Island, Capital: None, Population: 0
+Country: Botswana, Capital: Gaborone, Population: 2029307
+Country: Belarus, Capital: Minsk, Population: 9685000
+Country: Belize, Capital: Belmopan, Population: 314522
+Country: Canada, Capital: Ottawa, Population: 33679000
+Country: Cocos [Keeling] Islands, Capital: West Island, Population: 628
+Country: Democratic Republic of the Congo, Capital: Kinshasa, Population: 70916439
+Country: Central African Republic, Capital: Bangui, Population: 4844927
+Country: Republic of the Congo, Capital: Brazzaville, Population: 3039126
+Country: Switzerland, Capital: Bern, Population: 7581000
+Country: Ivory Coast, Capital: Yamoussoukro, Population: 21058798
+Country: Cook Islands, Capital: Avarua, Population: 21388
+Country: Chile, Capital: Santiago, Population: 16746491
+Country: Cameroon, Capital: Yaoundé, Population: 19294149
+Country: China, Capital: Beijing, Population: 1330044000
+Country: Colombia, Capital: Bogotá, Population: 47790000
+Country: Costa Rica, Capital: San José, Population: 4516220
+Country: Cuba, Capital: Havana, Population: 11423000
+Country: Cape Verde, Capital: Praia, Population: 508659
+Country: Curacao, Capital: Willemstad, Population: 141766
+Country: Christmas Island, Capital: Flying Fish Cove, Population: 1500
+Country: Cyprus, Capital: Nicosia, Population: 1102677
+Country: Czech Republic, Capital: Prague, Population: 10476000
+Country: Germany, Capital: Berlin, Population: 81802257
+Country: Djibouti, Capital: Djibouti, Population: 740528
+Country: Denmark, Capital: Copenhagen, Population: 5484000
+Country: Dominica, Capital: Roseau, Population: 72813
+Country: Dominican Republic, Capital: Santo Domingo, Population: 9823821
+Country: Algeria, Capital: Algiers, Population: 34586184
+Country: Ecuador, Capital: Quito, Population: 14790608
+Country: Estonia, Capital: Tallinn, Population: 1291170
+Country: Egypt, Capital: Cairo, Population: 80471869
+Country: Western Sahara, Capital: Laâyoune / El Aaiún, Population: 273008
+Country: Eritrea, Capital: Asmara, Population: 5792984
+Country: Spain, Capital: Madrid, Population: 46505963
+Country: Ethiopia, Capital: Addis Ababa, Population: 88013491
+Country: Finland, Capital: Helsinki, Population: 5244000
+Country: Fiji, Capital: Suva, Population: 875983
+Country: Falkland Islands, Capital: Stanley, Population: 2638
+Country: Micronesia, Capital: Palikir, Population: 107708
+Country: Faroe Islands, Capital: Tórshavn, Population: 48228
+Country: France, Capital: Paris, Population: 64768389
+Country: Gabon, Capital: Libreville, Population: 1545255
+Country: United Kingdom, Capital: London, Population: 62348447
+Country: Grenada, Capital: St. George's, Population: 107818
+Country: Georgia, Capital: Tbilisi, Population: 4630000
+Country: French Guiana, Capital: Cayenne, Population: 195506
+Country: Guernsey, Capital: St Peter Port, Population: 65228
+Country: Ghana, Capital: Accra, Population: 24339838
+Country: Gibraltar, Capital: Gibraltar, Population: 27884
+Country: Greenland, Capital: Nuuk, Population: 56375
+Country: Gambia, Capital: Bathurst, Population: 1593256
+Country: Guinea, Capital: Conakry, Population: 10324025
+Country: Guadeloupe, Capital: Basse-Terre, Population: 443000
+Country: Equatorial Guinea, Capital: Malabo, Population: 1014999
+Country: Greece, Capital: Athens, Population: 11000000
+Country: South Georgia and the South Sandwich Islands, Capital: Grytviken, Population: 30
+Country: Guatemala, Capital: Guatemala City, Population: 13550440
+Country: Guam, Capital: Hagåtña, Population: 159358
+Country: Guinea-Bissau, Capital: Bissau, Population: 1565126
+Country: Guyana, Capital: Georgetown, Population: 748486
+Country: Hong Kong, Capital: Hong Kong, Population: 6898686
+Country: Heard Island and McDonald Islands, Capital: None, Population: 0
+Country: Honduras, Capital: Tegucigalpa, Population: 7989415
+Country: Croatia, Capital: Zagreb, Population: 4491000
+Country: Haiti, Capital: Port-au-Prince, Population: 9648924
+Country: Hungary, Capital: Budapest, Population: 9982000
+Country: Indonesia, Capital: Jakarta, Population: 242968342
+Country: Ireland, Capital: Dublin, Population: 4622917
+Country: Israel, Capital: None, Population: 7353985
+Country: Isle of Man, Capital: Douglas, Population: 75049
+Country: India, Capital: New Delhi, Population: 1173108018
+Country: British Indian Ocean Territory, Capital: None, Population: 4000
+Country: Iraq, Capital: Baghdad, Population: 29671605
+Country: Iran, Capital: Tehran, Population: 76923300
+Country: Iceland, Capital: Reykjavik, Population: 308910
+Country: Italy, Capital: Rome, Population: 60340328
+Country: Jersey, Capital: Saint Helier, Population: 90812
+Country: Jamaica, Capital: Kingston, Population: 2847232
+Country: Jordan, Capital: Amman, Population: 6407085
+Country: Japan, Capital: Tokyo, Population: 127288000
+Country: Kenya, Capital: Nairobi, Population: 40046566
+Country: Kyrgyzstan, Capital: Bishkek, Population: 5776500
+Country: Cambodia, Capital: Phnom Penh, Population: 14453680
+Country: Kiribati, Capital: Tarawa, Population: 92533
+Country: Comoros, Capital: Moroni, Population: 773407
+Country: Saint Kitts and Nevis, Capital: Basseterre, Population: 51134
+Country: North Korea, Capital: Pyongyang, Population: 22912177
+Country: South Korea, Capital: Seoul, Population: 48422644
+Country: Kuwait, Capital: Kuwait City, Population: 2789132
+Country: Cayman Islands, Capital: George Town, Population: 44270
+Country: Kazakhstan, Capital: Astana, Population: 15340000
+Country: Laos, Capital: Vientiane, Population: 6368162
+Country: Lebanon, Capital: Beirut, Population: 4125247
+Country: Saint Lucia, Capital: Castries, Population: 160922
+Country: Liechtenstein, Capital: Vaduz, Population: 35000
+Country: Sri Lanka, Capital: Colombo, Population: 21513990
+Country: Liberia, Capital: Monrovia, Population: 3685076
+Country: Lesotho, Capital: Maseru, Population: 1919552
+Country: Lithuania, Capital: Vilnius, Population: 2944459
+Country: Luxembourg, Capital: Luxembourg, Population: 497538
+Country: Latvia, Capital: Riga, Population: 2217969
+Country: Libya, Capital: Tripoli, Population: 6461454
+Country: Morocco, Capital: Rabat, Population: 31627428
+Country: Monaco, Capital: Monaco, Population: 32965
+Country: Moldova, Capital: Chişinău, Population: 4324000
+Country: Montenegro, Capital: Podgorica, Population: 666730
+Country: Saint Martin, Capital: Marigot, Population: 35925
+Country: Madagascar, Capital: Antananarivo, Population: 21281844
+Country: Marshall Islands, Capital: Majuro, Population: 65859
+Country: Macedonia, Capital: Skopje, Population: 2062294
+Country: Mali, Capital: Bamako, Population: 13796354
+Country: Myanmar [Burma], Capital: Naypyitaw, Population: 53414374
+Country: Mongolia, Capital: Ulan Bator, Population: 3086918
+Country: Macao, Capital: Macao, Population: 449198
+Country: Northern Mariana Islands, Capital: Saipan, Population: 53883
+Country: Martinique, Capital: Fort-de-France, Population: 432900
+Country: Montserrat, Capital: Plymouth, Population: 9341
+Country: Mauritania, Capital: Nouakchott, Population: 3205060
+Country: Malta, Capital: Valletta, Population: 403000
+Country: Mauritius, Capital: Port Louis, Population: 1294104
+Country: Maldives, Capital: Malé, Population: 395650
+Country: Malawi, Capital: Lilongwe, Population: 15447500
+Country: Mexico, Capital: Mexico City, Population: 112468855
+Country: Malaysia, Capital: Kuala Lumpur, Population: 28274729
+Country: Mozambique, Capital: Maputo, Population: 22061451
+Country: Namibia, Capital: Windhoek, Population: 2128471
+Country: New Caledonia, Capital: Noumea, Population: 216494
+Country: Niger, Capital: Niamey, Population: 15878271
+Country: Norfolk Island, Capital: Kingston, Population: 1828
+Country: Nigeria, Capital: Abuja, Population: 154000000
+Country: Nicaragua, Capital: Managua, Population: 5995928
+Country: Netherlands, Capital: Amsterdam, Population: 16645000
+Country: Norway, Capital: Oslo, Population: 5009150
+Country: Nepal, Capital: Kathmandu, Population: 28951852
+Country: Nauru, Capital: Yaren, Population: 10065
+Country: Niue, Capital: Alofi, Population: 2166
+Country: New Zealand, Capital: Wellington, Population: 4252277
+Country: Oman, Capital: Muscat, Population: 2967717
+Country: Panama, Capital: Panama City, Population: 3410676
+Country: Peru, Capital: Lima, Population: 29907003
+Country: French Polynesia, Capital: Papeete, Population: 270485
+Country: Papua New Guinea, Capital: Port Moresby, Population: 6064515
+Country: Philippines, Capital: Manila, Population: 99900177
+Country: Pakistan, Capital: Islamabad, Population: 184404791
+Country: Poland, Capital: Warsaw, Population: 38500000
+Country: Saint Pierre and Miquelon, Capital: Saint-Pierre, Population: 7012
+Country: Pitcairn Islands, Capital: Adamstown, Population: 46
+Country: Puerto Rico, Capital: San Juan, Population: 3916632
+Country: Palestine, Capital: None, Population: 3800000
+Country: Portugal, Capital: Lisbon, Population: 10676000
+Country: Palau, Capital: Melekeok, Population: 19907
+Country: Paraguay, Capital: Asunción, Population: 6375830
+Country: Qatar, Capital: Doha, Population: 840926
+Country: Réunion, Capital: Saint-Denis, Population: 776948
+Country: Romania, Capital: Bucharest, Population: 21959278
+Country: Serbia, Capital: Belgrade, Population: 7344847
+Country: Russia, Capital: Moscow, Population: 140702000
+Country: Rwanda, Capital: Kigali, Population: 11055976
+Country: Saudi Arabia, Capital: Riyadh, Population: 25731776
+Country: Solomon Islands, Capital: Honiara, Population: 559198
+Country: Seychelles, Capital: Victoria, Population: 88340
+Country: Sudan, Capital: Khartoum, Population: 35000000
+Country: Sweden, Capital: Stockholm, Population: 9828655
+Country: Singapore, Capital: Singapore, Population: 4701069
+Country: Saint Helena, Capital: Jamestown, Population: 7460
+Country: Slovenia, Capital: Ljubljana, Population: 2007000
+Country: Svalbard and Jan Mayen, Capital: Longyearbyen, Population: 2550
+Country: Slovakia, Capital: Bratislava, Population: 5455000
+Country: Sierra Leone, Capital: Freetown, Population: 5245695
+Country: San Marino, Capital: San Marino, Population: 31477
+Country: Senegal, Capital: Dakar, Population: 12323252
+Country: Somalia, Capital: Mogadishu, Population: 10112453
+Country: Suriname, Capital: Paramaribo, Population: 492829
+Country: South Sudan, Capital: Juba, Population: 8260490
+Country: São Tomé and Príncipe, Capital: São Tomé, Population: 175808
+Country: El Salvador, Capital: San Salvador, Population: 6052064
+Country: Sint Maarten, Capital: Philipsburg, Population: 37429
+Country: Syria, Capital: Damascus, Population: 22198110
+Country: Swaziland, Capital: Mbabane, Population: 1354051
+Country: Turks and Caicos Islands, Capital: Cockburn Town, Population: 20556
+Country: Chad, Capital: N'Djamena, Population: 10543464
+Country: French Southern Territories, Capital: Port-aux-Français, Population: 140
+Country: Togo, Capital: Lomé, Population: 6587239
+Country: Thailand, Capital: Bangkok, Population: 67089500
+Country: Tajikistan, Capital: Dushanbe, Population: 7487489
+Country: Tokelau, Capital: None, Population: 1466
+Country: East Timor, Capital: Dili, Population: 1154625
+Country: Turkmenistan, Capital: Ashgabat, Population: 4940916
+Country: Tunisia, Capital: Tunis, Population: 10589025
+Country: Tonga, Capital: Nuku'alofa, Population: 122580
+Country: Turkey, Capital: Ankara, Population: 77804122
+Country: Trinidad and Tobago, Capital: Port of Spain, Population: 1228691
+Country: Tuvalu, Capital: Funafuti, Population: 10472
+Country: Taiwan, Capital: Taipei, Population: 22894384
+Country: Tanzania, Capital: Dodoma, Population: 41892895
+Country: Ukraine, Capital: Kiev, Population: 45415596
+Country: Uganda, Capital: Kampala, Population: 33398682
+Country: U.S. Minor Outlying Islands, Capital: None, Population: 0
+Country: United States, Capital: Washington, Population: 310232863
+Country: Uruguay, Capital: Montevideo, Population: 3477000
+Country: Uzbekistan, Capital: Tashkent, Population: 27865738
+Country: Vatican City, Capital: Vatican City, Population: 921
+Country: Saint Vincent and the Grenadines, Capital: Kingstown, Population: 104217
+Country: Venezuela, Capital: Caracas, Population: 27223228
+Country: British Virgin Islands, Capital: Road Town, Population: 21730
+Country: U.S. Virgin Islands, Capital: Charlotte Amalie, Population: 108708
+Country: Vietnam, Capital: Hanoi, Population: 89571130
+Country: Vanuatu, Capital: Port Vila, Population: 221552
+Country: Wallis and Futuna, Capital: Mata-Utu, Population: 16025
+Country: Samoa, Capital: Apia, Population: 192001
+Country: Kosovo, Capital: Pristina, Population: 1800000
+Country: Yemen, Capital: Sanaa, Population: 23495361
+Country: Mayotte, Capital: Mamoudzou, Population: 159042
+Country: South Africa, Capital: Pretoria, Population: 49000000
+Country: Zambia, Capital: Lusaka, Population: 13460305
+Country: Zimbabwe, Capital: Harare, Population: 11651858

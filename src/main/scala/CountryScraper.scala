@@ -6,6 +6,7 @@ import org.http4s.ember.client.EmberClientBuilder
 import org.http4s.implicits.uri
 import org.jsoup.Jsoup
 
+import java.nio.file.{Files, Paths, StandardOpenOption}
 import scala.jdk.CollectionConverters.*
 
 object CountryScraper extends IOApp.Simple {
@@ -26,9 +27,21 @@ object CountryScraper extends IOApp.Simple {
     }
   }
 
-  def saveCountry(c: (String, String, String)): IO[Unit] =
-    IO.println(s"Country: ${c._1}, Capital: ${c._2}, Population: ${c._3}")
+  // NEW: write one country to the file
+  def appendToFile(line: String): IO[Unit] = IO {
+    val path = Paths.get("countries3.txt")
+    Files.write(
+      path,
+      (line + "\n").getBytes(),
+      StandardOpenOption.CREATE,
+      StandardOpenOption.APPEND
+    )
+  }
 
+  def saveCountry(c: (String, String, String)): IO[Unit] = {
+    val formatted = s"Country: ${c._1}, Capital: ${c._2}, Population: ${c._3}"
+    appendToFile(formatted)
+  }
   def scraper(client: Client[IO]): Stream[IO, Unit] =
     Stream.emit(countriesUrl)
       .evalMap(fetchPage(client, _))
