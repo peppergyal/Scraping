@@ -54,3 +54,4 @@ object CountryScraper extends IOApp.Simple {
       scraper(client).compile.drain
     }
 }
+
